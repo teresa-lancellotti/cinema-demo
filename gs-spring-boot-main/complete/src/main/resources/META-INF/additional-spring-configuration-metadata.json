@@ -1,0 +1,17 @@
+{"properties": [
+  {
+    "name": "demo.excel.location",
+    "type": "java.lang.String",
+    "description": "Path to the excel file with the list of scheduled movies"
+  },
+  {
+    "name": "demo.excel.sheet2.name",
+    "type": "java.lang.String",
+    "description": "A description for 'demo.excel.sheet2.name'"
+  },
+  {
+    "name": "demo.excel.sheet1.name",
+    "type": "java.lang.String",
+    "description": "A description for 'demo.excel.sheet1.name'"
+  }
+]}
